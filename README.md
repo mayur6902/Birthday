@@ -1,3 +1,7 @@
+![Output Demo1](https://github.com/mayur6902/Birthday/assets/89648506/33ad9532-4048-4e2b-b653-6cef9d078659)
+![Output Demo 2](https://github.com/mayur6902/Birthday/assets/89648506/cf0bf928-b6a1-4ff0-9708-b10bcccab20a)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
